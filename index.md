@@ -1,5 +1,10 @@
 # **_Andrew Tan_**
 
+<picture>
+    <img src=selfie.png>
+    <img src=cseucsd.png>
+</picture>
+
 ## **Math-CS** with *Data Science* Minor
 
 ### ~~2nd~~ 3rd year at UCSD
